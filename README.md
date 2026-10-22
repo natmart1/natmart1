@@ -12,7 +12,7 @@ Analysis of the first KATRIN science run (KNM1) in Fortran: fit of the effective
 
 ### Education
 
-- **B.Sc. in Physics** — Universidad del Quindío, Armenia · 2020 – present<br>
+- **Physics** — Universidad del Quindío, Armenia · 2020 – present<br>
   All coursework completed; thesis in progress.
 - **Soil Laboratory Technician** — SENA Nariño, Pasto · 2018 – 2020
 

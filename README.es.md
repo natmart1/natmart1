@@ -12,7 +12,7 @@ Análisis en Fortran de la primera campaña de datos de KATRIN (KNM1): ajuste de
 
 ### Formación
 
-- **Física (pregrado)** — Universidad del Quindío, Armenia · 2020 – actualidad<br>
+- **Física** — Universidad del Quindío, Armenia · 2020 – actualidad<br>
   Materias culminadas; trabajo de grado en curso.
 - **Técnico en Laboratorio de Suelos** — SENA Nariño, Pasto · 2018 – 2020
 
