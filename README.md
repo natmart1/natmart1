@@ -2,12 +2,12 @@
 
 **English** · [Español](README.es.md)
 
-Physics student at the Universidad del Quindío (Armenia, Colombia), currently working on my undergraduate thesis in neutrino physics.
+Physics student at the Universidad del Quindío (Armenia, Colombia), currently working on my thesis in neutrino physics.
 I am interested in particle physics, astroparticle physics and computational methods.
 
 ### Research
 
-**Neutrino mass and sterile neutrinos with KATRIN data** — *Undergraduate thesis (in progress)*<br>
+**Neutrino mass and sterile neutrinos with KATRIN data** — *Thesis (in progress)*<br>
 Analysis of the first KATRIN science run (KNM1) in Fortran: fit of the effective electron-neutrino mass squared, *m²<sub>β</sub>*, and exclusion contours for a 3+1 sterile-neutrino scenario.
 
 ### Education
