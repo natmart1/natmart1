@@ -2,6 +2,8 @@
 
 **English** · [Español](README.es.md)
 
+Download CV (PDF): [English](cv/CV_Natalia_Martinez_EN.pdf) · [Español](cv/CV_Natalia_Martinez_ES.pdf)
+
 Physics student at the Universidad del Quindío (Armenia, Colombia), currently working on my thesis in neutrino physics.
 I am interested in particle physics, astroparticle physics and computational methods.
 

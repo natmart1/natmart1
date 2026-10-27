@@ -2,6 +2,8 @@
 
 [English](README.md) · **Español**
 
+Descargar hoja de vida (PDF): [Español](cv/CV_Natalia_Martinez_ES.pdf) · [English](cv/CV_Natalia_Martinez_EN.pdf)
+
 Estudiante de Física de la Universidad del Quindío (Armenia, Colombia), actualmente desarrollando mi trabajo de grado en física de neutrinos.
 Me interesan la física de partículas, la física de astropartículas y los métodos computacionales.
 
