@@ -1,15 +1,16 @@
-@page { size: A4; margin: 18mm 20mm; }
+@page { size: A4; margin: 17mm 22mm; }
 * { box-sizing: border-box; }
-body { font-family: "Segoe UI", Calibri, Arial, sans-serif; color: #222; font-size: 10.5pt; line-height: 1.45; margin: 0; }
-h1 { color: #2F3E4E; font-size: 22pt; margin: 0 0 2pt; font-weight: 600; }
-.contacto { color: #555; font-size: 9.5pt; margin-bottom: 10pt; }
+body { font-family: "Segoe UI", Calibri, Arial, sans-serif; color: #222; font-size: 11pt; line-height: 1.5; margin: 0; }
+h1 { color: #2F3E4E; font-size: 24pt; margin: 0 0 3pt; font-weight: 600; }
+.contacto { color: #555; font-size: 10pt; margin-bottom: 12pt; }
 .contacto a { color: #2F3E4E; text-decoration: none; }
-.resumen { margin: 0 0 4pt; }
-h2 { color: #2F3E4E; font-size: 11.5pt; text-transform: uppercase; letter-spacing: .6pt; border-bottom: 1.2pt solid #2F3E4E; padding-bottom: 2pt; margin: 14pt 0 6pt; }
-.item { margin-bottom: 7pt; page-break-inside: avoid; }
-.fila { display: flex; justify-content: space-between; gap: 12pt; }
+h2 { color: #2F3E4E; font-size: 12pt; text-transform: uppercase; letter-spacing: .6pt; border-bottom: 1.2pt solid #2F3E4E; padding-bottom: 2pt; margin: 16pt 0 7pt; page-break-after: avoid; }
+p { margin: 0 0 6pt; }
+.item { margin-bottom: 9pt; page-break-inside: avoid; }
 .titulo { font-weight: 600; }
-.fecha { color: #555; white-space: nowrap; }
+.fecha { color: #555; }
 .lugar { color: #444; }
-.detalle { margin-top: 1pt; }
-p { margin: 0 0 4pt; }
+ul { margin: 3pt 0 0; padding-left: 16pt; }
+li { margin-bottom: 2pt; }
+.herr div { margin-bottom: 3pt; }
+.herr b { font-weight: 600; color: #2F3E4E; }
